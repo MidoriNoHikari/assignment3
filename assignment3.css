@@ -1,1 +1,12 @@
 /*styles for assignment 3*/
+p {
+  color: #FF00FF;
+}
+
+#intro {
+  font-size: 16px;
+}
+
+.myFleet {
+  font-size: 20px;
+}
